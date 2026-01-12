@@ -30,3 +30,19 @@ Application → Filebeat → Logstash → Elasticsearch → Kibana
 - **Python (Flask)**
 # Centralized-Log-Management-Stack
 Built a centralized log management system using ELK Stack to collect, process, and visualize logs from Dockerized applications with real-time dashboards.
+## 📸 Project Screenshots
+
+### Docker Containers Running
+![Docker Running](screenshots/docker-running.png)
+
+### App Output
+![App Output](screenshots/app-output.png)
+
+### Elasticsearch Indices
+![Elastic Indices](screenshots/elastic-index.png)
+
+### Kibana Discover
+![Kibana Discover](screenshots/kibana-discover.png)
+
+### Kibana Dashboard
+![Kibana Dashboard](screenshots/kibana-dashboard.png)
